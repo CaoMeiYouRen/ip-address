@@ -23,7 +23,8 @@
   "files": [
     "ip-address.js",
     "ip-address-globals.js",
-    "lib/**/*"
+    "lib/**/*",
+    "types"
   ],
   "repository": {
     "type": "git",
